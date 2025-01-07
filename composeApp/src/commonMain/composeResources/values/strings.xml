@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReactionTimeApp</string>
+    <string name="click_anywhere">Click Anywhere!</string>
+    <string name="click_anywhere_to_start">Click anywhere to start.</string>
+    <string name="when_the_red_background_turns_green">When the Red background turns Green, click on the screen as quickly as you can.</string>
+    <string name="reaction_time_test">REACTION TIME TEST</string>
+    <string name="your_reaction_time">Your Reaction Time</string>
+    <string name="your_best_score">Your Best Score</string>
+    <string name="click_anywhere_to_start_again">Click anywhere to start again.</string>
+    <string name="you_clicked_too_soon">You Clicked Too Soon..</string>
+    <string name="wait_for_green">Wait for Green</string>
+</resources>
